@@ -17,7 +17,7 @@ I am **not affiliated with the Meshtastic project or organization**. The name "M
 
 ## 🙋 About This Project
 
-This project was created **just for fun and learning**. I'm not a professional Python developer — I’m building this with curiosity and the help of **LLMs** to better understand Python, file encoding, GUI design, and mesh networking. Feel free to suggest improvements or contribute!
+This project was created **just for fun and learning**. I’m building this with curiosity and the help of **LLMs** to better understand Python, file encoding, GUI design, and mesh networking. Feel free to suggest improvements or contribute!
 
 ---
 
