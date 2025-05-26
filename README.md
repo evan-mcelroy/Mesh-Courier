@@ -3,6 +3,10 @@
 A Python application for transferring files over Meshtastic radio networks. This application provides a user-friendly interface for sending and receiving files through Meshtastic devices, with support for compression.
 
 ![IMG1](screenshots/img1.png)
+![IMG2](screenshots/img3.png)
+![IMG3](screenshots/img2.png)
+![IMG4](screenshots/img4.png)
+
 ## Features
 
 - **File Transfer**: Send and receive files over Meshtastic radio networks
