@@ -5,8 +5,8 @@ A Python application for transferring files over Meshtastic radio networks. This
 
 <div align="center">
   <img src="screenshots/img3.png" alt="Screenshot 1" width="500"/>
-  <img src="screenshots/img2.png" alt="Screenshot 2" width="400"/>
-  <img src="screenshots/img4.png" alt="Screenshot 3" width="400"/>
+  <img src="screenshots/img2.png" alt="Screenshot 2" width="550"/>
+  <img src="screenshots/img4.png" alt="Screenshot 3" width="550"/>
 </div>
 
 ---
