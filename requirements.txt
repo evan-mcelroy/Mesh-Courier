@@ -1,0 +1,4 @@
+meshtastic>=2.1.0
+pyserial>=3.5
+pubsub>=1.6.0
+tkinter  # Usually comes with Python installation 
