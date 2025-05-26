@@ -53,6 +53,9 @@ This project was created **just for fun and learning**. I’m building this with
 ## Installation
 
 1. Clone this repository or download the source code
+   ```bash
+   git clone https://github.com/evan-mcelroy/Mesh-Courier.git
+   ```
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
@@ -111,7 +114,7 @@ Since Meshtastic transmits text-based JSON messages:
 
 ### 📦 3. Chunking
 
-The Base64-encoded file is split into **~220-character chunks**:
+The Base64-encoded file is split into **~200-character chunks**:
 
 - Each chunk has a **chunk index**, **file ID**, and **metadata**
 - Chunks are small enough to fit into a standard LoRa packet
@@ -135,7 +138,7 @@ The receiving node:
 - Collects all chunks
 - Reassembles the full Base64 string
 - Decodes it back to binary
-- **Decompresses** it (if compression was used)
+- Decompresses it (if compression was used)
 - Saves it to disk
 
 ---
@@ -196,5 +199,4 @@ This project is licensed under the **GPL-3.0 License**. See the `LICENSE` file f
 ## Acknowledgments
 
 - The [Meshtastic](https://meshtastic.org/) project for making mesh networking accessible
-- The Python open-source community for making everything from GUIs to compression easy to implement
-- ChatGPT and other LLMs for helping me learn as I go
+- The Python open-source community 
